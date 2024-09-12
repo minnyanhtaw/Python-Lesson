@@ -1,0 +1,13 @@
+=> Environment
+(i) Text Editor
+(ii) Integrated Development Environment (IDE)
+
+=> Who Use Python?
+1. Software Developers
+Backend Development, web applications (eg. Django, Flask)
+2. Data Scientists and Analysts
+Data analysis, data visualization and statistical modeling
+3. AI (Artificial Intelligence) and ML (Machine Learning)
+TensorFlow, Pytorch, Keras
+4. Engineers
+automation, simulations
