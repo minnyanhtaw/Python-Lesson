@@ -58,3 +58,35 @@ func myfun() {
 }
 
 How Python Code Work 
+
+Advantage of Python
+1. Easy syntax
+    print("san kyi tar");
+2. Interprete Language
+3. High-Level
+
+
+
+public static void main(String args[]) {
+    int x =100;
+    double y = 2.5;
+    String name = "San Kyi Tar Par";
+
+    System.out.println(x);
+    System.out.println(y);
+    System.out.println(name);
+}
+eg: Python code eg.
+x = 10
+name = "San Kyi Tar Par"
+
+print("x value is " + x);
+print("name value is " + name);
+
+=> General Purpose Language
+Web Development
+Machine Learning
+Data analysis
+Artificial Intelligence
+Game Development
+Mobile Development=
