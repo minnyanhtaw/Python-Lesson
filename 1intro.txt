@@ -10,4 +10,51 @@ Data analysis, data visualization and statistical modeling
 3. AI (Artificial Intelligence) and ML (Machine Learning)
 TensorFlow, Pytorch, Keras
 4. Engineers
-automation, simulations
+automation, simulations , (eg. Raspberry Pi)
+5. Cybersecurity
+creating custom security tools
+6. Game Developers
+Pygame
+
+=> What is programming
+1. Creating Algorithms
+sorting to number and datas
+2. Writing Code
+Programmer have to code (Python, Java, C++, etc...)
+3. Compiling or Interpreting
+
+5.Optimizing Code
+6. Collaboration
+Developers, designer, project manager
+7. Maintaining Software
+
+=> What is programming language
+1.syntax
+2.Instruction
+3.datatype
+4.Compilers and Interpreters
+Compilers languages : (C,C++,Go(Goland).etc)
+Interpreters language : Python
+5. variables and functions
+6. High Level or Low-Level language
+High Level language (Python, Java, etc...)
+
+Hight-Level language
+Assembly code
+Machine language
+Hardware
+
+=> Markup Language vs Programming Language
+Markup = Description
+Programming = other
+
+=> Compilers vs Interpreters 
+(compilers = source code to Machine code)
+= 1. program.go
+
+import "fmt"
+func myfun() {
+    fmt.Println("San Kyi Tar Par");
+}
+
+How Python Code Work 
