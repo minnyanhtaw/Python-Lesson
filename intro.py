@@ -10,13 +10,13 @@
 # x = 5
 # y = "San Kyi tar"
 # firstname = "San Kyi"
-# lastName = "Tar"
+# sankyitar = "Tar"
 
 # myName = "ha ha"
-ages = [20,39,3]
+ages = [20, 39, 3]
 print(ages)
 
-# print(firstName + " " + lastName)
+# print(firstName + " " +sankyitar)
 
 
 # print(x)
